@@ -32,7 +32,7 @@ pip install pygame
 ### Running the Program
 Clone this repository and navigate to the project directory:
 ```bash
-git clone https://github.com/yourusername/maze-solver.git
+git clone https://github.com/eashwar910/maze-solver.git
 cd maze-solver
 ```
 Run the script:
